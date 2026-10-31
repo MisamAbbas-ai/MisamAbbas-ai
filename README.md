@@ -1,46 +1,58 @@
 # Misam Abbas
 
-AI/ML learner and university student based in Lahore, Pakistan.
-I am building strong Python and data fundamentals, with the goal of working as an AI/ML engineer.
-I am looking for internship opportunities where I can learn from experienced engineers and contribute to real projects.
+**AI/ML Engineer in Training | Python | Data Analysis | Machine Learning**
+Lahore, Pakistan
 
-## Current Focus
+I am a university student focused on building a strong foundation in Python, data analysis, and machine learning. My goal is to start a career as an AI/ML engineer, and I am seeking internship opportunities where I can contribute to real-world projects and grow under experienced mentorship.
 
-- Python programming and problem-solving
-- Git and GitHub workflows
-- Data analysis with NumPy and Pandas
-- Classical machine learning with scikit-learn (starting soon)
+---
 
-## Skills
+## Focus Areas
 
-**Comfortable with**
-- Python (fundamentals)
-- Git and GitHub (basics)
+- **Python Programming:** writing clean, readable, well-structured code
+- **Data Analysis:** NumPy, Pandas, and data visualization
+- **Machine Learning:** supervised learning, model evaluation, scikit-learn
+- **Engineering Practices:** Git, version control, and documented projects
 
-**Currently learning**
-- NumPy, Pandas, Matplotlib
-- Machine learning fundamentals
+---
 
-**Planned next**
-- Deep learning, NLP, and generative AI, after completing the stages above
+## Technical Skills
+
+| Area | Technologies | Level |
+|---|---|---|
+| Programming | Python | Fundamentals |
+| Version Control | Git, GitHub | Basics |
+| Data Analysis | NumPy, Pandas, Matplotlib | Learning |
+| Machine Learning | scikit-learn | Learning |
+| Next stages | Deep Learning, NLP, Generative AI | Planned |
+
+---
 
 ## Projects
 
-Projects will be listed here as I complete them. Each one will include a README, results, and instructions to run it.
+| Project | Focus | Stack | Status |
+|---|---|---|---|
+| Python Practice Repository | Problem-solving and core Python | Python | In progress |
+| Exploratory Data Analysis | Data cleaning, visualization, insights | Python, Pandas, Matplotlib | Planned |
+| House Price Prediction | Regression modeling and evaluation | Python, scikit-learn | Planned |
 
-| Project | Description | Tech |
-|---|---|---|
-| *In progress* | *First project coming soon* | Python |
+Completed projects will be linked here with a README, results, and setup instructions.
+
+---
 
 ## Learning Roadmap
 
-1. Python fundamentals (in progress)
-2. NumPy and Pandas
-3. Machine learning with scikit-learn
-4. Deep learning
-5. NLP and generative AI
+1. **Foundations:** Python, Git, GitHub
+2. **Data Skills:** NumPy, Pandas, visualization
+3. **Machine Learning:** scikit-learn, model evaluation
+4. **Advanced AI:** Deep Learning, NLP, Generative AI
 
-## Connect
+---
+
+## Contact
 
 - LinkedIn: https://www.linkedin.com/in/misam-abbas-ai/
 - Email: aibymisam@gmail.com
+- GitHub: [MisamAbbas-ai](https://github.com/MisamAbbas-ai)
+
+*Open to AI/ML opportunities in Lahore and remote roles.*
